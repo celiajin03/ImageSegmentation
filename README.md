@@ -5,16 +5,16 @@ This repository contains two scripts named `xxx_face(s).py` which implement an i
   - Single Face
     <p>
       <img src="https://user-images.githubusercontent.com/114009025/230433223-5abbd60c-0b3c-48e2-835e-c253a499179e.jpg" width="15%" height="15%"/>
-        &rarr;
+        &ensp; &rarr; &ensp; 
       <img src="https://user-images.githubusercontent.com/114009025/230434864-bfd5d378-615b-4fff-b1c6-e3b2c43ad7eb.jpg" width="15%" height="15%"/> 
-        &rarr;
+        &ensp; &rarr; &ensp; 
       <img src="https://user-images.githubusercontent.com/114009025/230434902-ac042a92-89c6-4986-9e89-ccf3d53678ab.jpg" width="15%" height="15%"/>
     </p>
 
   - Multiple Faces
     <p>
       <img src="https://user-images.githubusercontent.com/114009025/230434969-297d5bb3-c531-4ac4-8b86-c936ddfcc95c.jpg" width="25%" height="25%"/>
-        &rarr;
+        &ensp; &rarr; &ensp; 
       <img src="https://user-images.githubusercontent.com/114009025/230435017-7da2db2c-d2b6-44b4-a258-ec3387d849e4.jpg" width="25%" height="25%"/>
     </p>
 
